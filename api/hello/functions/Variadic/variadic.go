@@ -1,3 +1,6 @@
+//Variadic functions in Go allow you to pass a variable number of arguments to a function.
+// This feature is useful when you don’t know beforehand how many arguments you will pass.
+
 package main
 
 import "fmt"
